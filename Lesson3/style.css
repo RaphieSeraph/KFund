@@ -1,0 +1,25 @@
+p {
+    border: 1px solid rgb(0, 139, 42);
+    margin: 50px 0px 0px 0px;
+    padding: 50px solid ;
+}
+.text1 {
+    color: blueviolet;
+    font-size: 30px;
+}
+.text2 {
+    color: crimson;
+    font-size: 40px;
+}
+.text3 {
+    color: darkcyan;
+    font-size: 50px;
+}
+.th {
+    font-size: 60px;
+    border: 1px solid black;
+}
+.tab {
+    border-collapse: collapse;
+    background: linear-gradient(red, orange, yellow, green, blue, blueviolet); 
+}

@@ -1,0 +1,52 @@
+.bkg{
+    width: 1500px;
+    height: 1400px;
+    background-image: url("../img/background.jpg");
+}
+.title{
+    color: rgb(238, 200, 250);
+    margin: 30px;
+}
+.bottom{
+    width: 500px;
+    height: 400px;
+    transition: 3s;
+    border-radius: 150px;
+}
+.bottom:hover{
+    background-color: rgb(205, 112, 228);
+    width: 1350px;
+    height: 350px;
+}
+.transform{
+    display: flex;
+    width: 1350px;
+    height: 350px;
+    border: solid rgb(238, 200, 250);
+    align-items: center;
+    justify-content: space-around;
+}
+.sguare{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(205, 112, 228);
+    animation: anim 5s infinite alternate;
+}
+@keyframes anim{
+    50%{
+        transform: skew(60deg);
+    }
+    100%{
+        transform: skew(-60deg);
+    }
+}
+.box{
+    height: 500px;
+    display: flex;
+}
+img{
+    object-fit:cover;
+    object-position:right;
+    width: 500px;
+    height: 350px;
+}

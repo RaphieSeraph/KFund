@@ -1,0 +1,14 @@
+.title{
+    animation: color 5s infinite alternate;
+}
+@keyframes color{
+    50%{
+        font-size: 50px;
+        transform: translateX(500px) rotate(360deg);
+        color:cornflowerblue;
+    }
+    100%{
+        font-size: 20px;
+        transform:translateX(1200px)
+    }
+}

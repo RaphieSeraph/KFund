@@ -1,0 +1,13 @@
+.h {
+    font-size: 100px;
+}
+.cell {
+    font-size: 60px;
+    border: 1px solid white;
+    padding: 30px;
+}
+.tab {  
+    color: azure;
+    border-collapse: collapse;
+    background: linear-gradient(rgb(6, 114, 11), red, blue, rgb(199, 130, 2), black);
+}

@@ -1,0 +1,17 @@
+.hoi {
+    color: black;
+    background-color: blue;
+}
+.hoi1 {
+    color: yellow;
+    background-color: red;
+}
+.hoi2 {
+    color:red;
+    background-color: blue;
+}
+.img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}

@@ -1,0 +1,27 @@
+.cell1 :hover {
+    background: linear-gradient(rgb(0, 183, 255), orange, yellow, green, blue, blueviolet);
+    transition: 0.8s;
+    font-size: 80px;
+    border: 1px solid black;
+    padding: 30px;
+}
+.tab {
+    padding: 30px;
+    border-collapse: collapse;
+    background: mediumturquoise;
+    border: 1px solid black;
+    font-size: 60px;
+    padding: 50px;
+}
+.cell {
+    font-size: 90px;
+    color: rgb(9, 177, 79);
+    padding: 20px;
+}
+.cell2 {
+    font-size: 60px;
+    border: 1px solid black;
+}
+.hai{   
+    font-size: 100px;
+}

@@ -1,0 +1,96 @@
+.hai{
+    width: 800px;
+
+}
+    .hai1{
+        width: 800px;
+        height: 100px;
+        background: red;
+    }
+    .hai2{
+        width: 800px;
+        height: 100px;
+        background: green;
+    }
+    .hai3{
+        width: 800px;
+        height: 100px;
+        background: blue;
+    }
+.lai{
+    width: 800px;
+    margin-top: 50px;
+}
+    .lai1{
+        height: 100px;
+    }
+        .lai11{
+            width: 33%;
+            height: 100px;
+            background: red;
+            display: inline-block;
+        }
+        .lai12{
+            width: 33.33333%;
+            height: 100px;
+            background: green;
+            display: inline-block;
+        }
+        .lai13{
+            width: 33.33333%;
+            height: 100px;
+            background: blue;
+            display: inline-block;
+        }
+    .lai2{
+        width: 800px;
+        height: 100px;
+        background: yellow;
+        display: inline-block;
+    }
+    .lai3{
+        width: 800px;
+        height: 100px;
+        display: inline-block;
+    }
+        .lai32{
+            width: 400px;
+            height: 100px;
+            background: rgb(121, 121, 121);
+            display: inline-block;
+        }
+        .lai33{
+            width: 400px;
+            height: 100px;
+            background:black;
+            display: inline-block;
+        }
+.lime{
+    width: 800px;
+    background: lime;
+    margin: 50px;
+}
+.red{
+    width: 100px;
+    height: 100px;
+    background: red;
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.green{
+    width: 100px;
+    height: 100px;
+    background: green;
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.blue{
+    width: 100px;
+    height: 100px;
+    background: blue;
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
