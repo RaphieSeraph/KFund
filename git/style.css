@@ -1,0 +1,12 @@
+
+.bottom{
+    padding: 30px;
+    border-left: solid darkblue 20px;
+    margin-top: 50px;
+}
+.bottom:hover{
+    border-left:solid chartreuse 20px;
+}
+.title{
+    padding-left: 50%;
+}
