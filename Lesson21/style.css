@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.header_inner{
+    height: 100px;
+    display: flex;
+}
+.bottom{
+    width: 35px;
+    height: 20px;
+    background-color: #4AD295;
+    color: white;
+    border-radius: 2px;
+}
+.menu_inner{
+}
+.header_bottom{
+    display: flex;
+}
+.bottoms{
+    display: flex;
+    margin-left: 35px;
+}
+.bottom_a{
+    margin-left: 30px;
+}

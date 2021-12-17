@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+.logo-text{
+    color: aquamarine;
+}
+.header-inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu-ink{
+    color: aquamarine;
+    text-decoration: none;
+}
+.menu-inner{
+    display: flex;
+}
+.menu-item{
+    list-style-type: none;
+    margin-left: 10px;
+}
+.banner{
+    background-image: url(logo.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.banner-text{
+    color:azure;
+    padding-top: 150px;
+    text-align: center;
+}
+.banner-title{
+    color:rgb(255, 0, 0);
+    text-align: center;
+    padding: 30px;
+}
+.banner-bottom{
+    color:chartreuse;
+    border: chartreuse 2px solid ;
+    padding: 10px 20px;
+    border-radius: 60px;
+    margin: 0 10px;
+    text-decoration: none;
+}
+.bunner-bottom-iner{
+    display: flex;
+    justify-content: center;
+}
+.banner-bottom:hover{
+    background: red;
+}
+.header{
+    position: absolute;
+    left: 50%;
+    margin-left: -585px;
+}
+.menu-ink:hover{
+    color:red;
+}
+.servise-title{
+    color: black;
+}
